@@ -1,2 +1,2 @@
-# ArtisanLocalMarkett
+# ArtisanLocalMarket
 Final year Project
